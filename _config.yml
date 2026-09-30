@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : # @juliettecorbi.bsky.social
+  bluesky          :  "@juliettecorbi.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
