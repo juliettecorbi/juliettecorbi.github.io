@@ -1,7 +1,7 @@
 ---
 title: "What is 'us'? The use of femonationalism, homonationalism and judeonationalism by European political parties"
 collection: publications
-category: manuscripts
+category: workingpapers
 permalink: /publication/what-is-us-nationalisms
 excerpt: 'Using quantitative text analysis on the PARTYPRESS dataset, this paper quantifies femonationalist, homonationalist, and judeonationalist communication by European political parties, including beyond the radical right.'
 date: 2026-01-01

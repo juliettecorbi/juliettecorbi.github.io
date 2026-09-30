@@ -52,6 +52,28 @@ There's one hidden template left in `_publications/` (a conference-paper
 example, `published: false`) for whenever you add your first one — set
 `published: true` and fill it in, or duplicate it.
 
+**Publication categories:** the `category` field in a publication's front
+matter decides which heading it appears under on the Publications page (and
+in this order):
+
+| `category:` value | Heading shown |
+|---|---|
+| `manuscripts` | Peer-Reviewed Journal Articles |
+| `workingpapers` | Working Papers |
+| `workinprogress` | Work in Progress |
+| `conferences` | Conference Papers |
+| `books` | Books & Book Chapters |
+
+A heading only appears once you have at least one publication using it — so
+"Peer-Reviewed Journal Articles" is invisible right now and will simply show
+up the moment you add a paper with `category: manuscripts`.
+
+There's no separate "Under Review" heading — a paper under review stays in
+`workingpapers` and shows its status through the `venue` field instead (e.g.
+`venue: 'Under review, Research & Politics'`). When a paper is actually
+accepted/published, change its `category` to `manuscripts` and update
+`venue` to the real journal citation — no need to touch `_config.yml`.
+
 ## Previewing before you publish
 
 You don't strictly need to preview locally — pushing to GitHub is enough,
