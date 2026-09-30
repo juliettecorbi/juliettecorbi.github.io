@@ -3,25 +3,21 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
+#
+# "Guide", "Talks" and "Portfolio" were removed from this menu since the site
+# only uses Intro / Publications / Teaching / CV / Blog. Add a link back here
+# any time (e.g. - title: "Talks" \n url: /talks/) if you re-enable a section
+# in _config.yml.
 
 main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+    url: /teaching/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

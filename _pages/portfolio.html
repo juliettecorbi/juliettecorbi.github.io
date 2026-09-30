@@ -3,12 +3,16 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+published: false
 ---
 
-{% include base_path %}
+<!-- This page is turned off (published: false) because Portfolio wasn't one
+of the sections you asked for. To bring it back: set published: true here,
+and set portfolio: output: true in _config.yml. To remove it for good, delete
+this file plus the _portfolio/ folder. -->
 
+{% include base_path %}
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-

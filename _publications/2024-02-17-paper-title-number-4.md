@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "What is 'us'? The use of femonationalism, homonationalism and judeonationalism by European political parties"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/what-is-us-nationalisms
+excerpt: 'Using quantitative text analysis on the PARTYPRESS dataset, this paper quantifies femonationalist, homonationalist, and judeonationalist communication by European political parties, including beyond the radical right.'
+date: 2026-01-01
+venue: 'Working paper'
+citation: 'Corbi, J. (2026). "What is ''us''? The use of femonationalism, homonationalism and judeonationalism by European political parties." Working paper.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Using quantitative text analysis methods on the PARTYPRESS dataset, this paper quantifies the use of femonationalist, and also of homonationalist and judeonationalist, communication by political parties in Western Europe. It analyses when parties other than radical right parties use this rhetoric.

@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Do men and women react in the same way to social norms on prejudice and discrimination? Social desirability bias and gender"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/social-desirability-gender
+excerpt: 'Using European Social Survey data in a quasi-experimental design, this paper asks whether preference falsification patterns around prejudice and discrimination are gendered.'
+date: 2026-01-01
+venue: 'Work in progress'
+citation: 'Corbi, J. (2026). "Do men and women react in the same way to social norms on prejudice and discrimination? Social desirability bias and gender." Work in progress.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper assesses whether preference falsification patterns concerning prejudice and discrimination are gendered. It does so by using European Social Survey data in a quasi-experimental design.
