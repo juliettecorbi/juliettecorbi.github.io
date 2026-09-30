@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the Hertie School and Humboldt University of Berlin, part of the Research Training Group "The Dynamics of Demography, Democratic Processes and Public Policy" (DYNAMICS). My research examines the far right, social norms, discrimination, and gender — in particular, how radical right parties in Western Europe use gender-equality framing to reduce the social stigma attached to them.
+I am a PhD candidate at [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics), a joint program of the Hertie School and Humboldt University Berlin. I am also an associate member of the French-German [Marc Bloch Center](https://cmb.hu-berlin.de/) in Berlin.
 
-Research interests
-======
+My research focuses on social norms, the far right, discrimination, and gender in France, Germany, and more broadly in Western Europe. In particular, I study how far-right parties reduce the stigma surrounding them by mobilizing progressive arguments such as the protection of women and minorities. I also analyze how social norms shape political behavior, including how they bias survey responses.
 
-* Social norms
-* Far-right parties
-* Discrimination
-* Gender
+Interested in my research? Please feel free to [contact me](mailto:juliette.corbi@sciencespo.fr) — in English, French, or German, you choose.
+
