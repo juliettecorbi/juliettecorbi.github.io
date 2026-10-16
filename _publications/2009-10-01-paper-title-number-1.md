@@ -1,5 +1,6 @@
 ---
-title: "Gender equality framings destigmatise radical right parties, but only among men"
+title: "Claiming to protect women, persuading men:
+femonationalism and the destigmatisation of radical right parties"
 collection: publications
 category: manuscripts
 permalink: /publication/femonationalism-destigmatisation
